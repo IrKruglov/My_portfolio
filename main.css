@@ -1,0 +1,20 @@
+body{
+	background-color: black;}
+
+.school{
+	width: 100%;
+	height: 42px;
+	text-align: center;
+	color:#ECFF77;
+}
+p{font-size: 35px;
+color:#FFFFFF;}
+
+h2{
+	color:#ECFF77;
+}
+h1,h4{
+	color:#FFFFFF;
+}
+a{color:#FFFFFF;}
+li{color:#FFFFFF;}
